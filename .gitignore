@@ -1,0 +1,9 @@
+*.pyc
+.docker
+.uv.lock
+.pytest_cache
+.venv
+*.egg-info
+.docker/.volumes
+.vscode
+db.sqlite3
